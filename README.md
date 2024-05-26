@@ -10,7 +10,8 @@
     [Guía de Instalación](instalacion.md)
 
 3. **Procesos Asociados a WSL**:
-[Procesos Asociados a WSL](procesos.md)
+
+    [Procesos Asociados a WSL](procesos.md)
 
 # REFERENCIAS
 
