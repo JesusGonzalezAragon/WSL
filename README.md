@@ -1,4 +1,8 @@
-## Contenido del Repositorio
+<p align="center">
+   <img src="https://www.developer-tech.com/wp-content/uploads/sites/3/2021/10/windows-subsystem-for-linux-wsl-microsoft.png" alt="intro"/>
+</p>
+
+## Apartados
 
 1. **Introducción**:
 
