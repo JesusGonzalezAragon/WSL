@@ -1,7 +1,7 @@
 # Procesos asociados a WSL
 ![Imagen 5](img/img5.png)
 
-WSL ejecuta varios procesos, como podemos ver, algunos de ellos son vmmemWSL, wsl.exe wslhost.exe
+WSL ejecuta varios procesos, como podemos ver, algunos de ellos son vmmemWSL, wsl.exe y wslhost.exe entre otros.
 
 1. **Vmmem**: vmmem es un proceso de Windows que se utiliza para administrar la memoria de las máquinas virtuales en la función Hyper-V de Windows.
 2. **wslhost.exe**: wslhost.exe es responsable de gestionar la integración entre los entornos Windows y Linux, facilitando la ejecución de comandos y aplicaciones de Linux dentro del sistema operativo Windows.
