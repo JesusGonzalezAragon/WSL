@@ -6,7 +6,7 @@ El Subsistema de Windows para Linux (WSL) permite a los desarrolladores ejecutar
 
 ## ¿Es mejor WSL u otras aplicaciones como VirtualBox?
 WSL necesita **menos recursos (CPU, memoria y almacenamiento) que una máquina virtual completa**. Asimismo, WSL también te *permite ejecutar aplicaciones y herramientas de línea de comandos de Linux junto con la línea de comandos de Windows*, aplicaciones de escritorio y de Store, así como la posibilidad de acceder a los archivos de Windows desde Linux. Esto te permite usar las aplicaciones de Windows y las herramientas de línea de comandos de Linux en el mismo conjunto de archivos, si así lo deseas.
-![comparativa](image-1.png)
+![comparativa](/img/image-1.png)
 
 Anque parezca que WSL es mejor, creo que depende de para que lo quieras utilizar:
 
